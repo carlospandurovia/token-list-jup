@@ -1,0 +1,32 @@
+[
+  {
+    "address": "9rkUaspWqak9RLa92f2khP7rbd4hkRxNqwmUSL99star",
+    "chainId": 101,
+    "symbol": "MESSI",
+    "name": "Lionel Messi",
+    "decimals": 9,
+    "logoURI": "https://starsonchain.com/img/MESSI.png",
+    "tags": ["sports", "collectible"],
+    "extensions": {
+      "website": "https://starsonchain.com/",
+      "twitter": "https://x.com/starsonchain",
+      "telegram": "https://t.me/starsonchain_0",
+      "description": "MESSI is a legendary sports micro-token minted on Stars On Chain. With a strict supply cap of just 5,000 units, it's a tribute to football excellence. No presales, no privileged wallets — only pure market discovery. This is not just a coin, it’s a digital collectible for the true believers."
+    }
+  },
+  {
+    "address": "DHpfS7fh4iJAEd9sq78jHzPGWGTsNkSoSjPyN3aUstar",
+    "chainId": 101,
+    "symbol": "CENA",
+    "name": "John Cena",
+    "decimals": 9,
+    "logoURI": "https://starsonchain.com/img/CENA.png",
+    "tags": ["sports", "collectible"],
+    "extensions": {
+      "website": "https://starsonchain.com/",
+      "twitter": "https://x.com/starsonchain",
+      "telegram": "https://t.me/starsonchain_0",
+      "description": "CENA is a legendary sports micro-token minted on Stars On Chain. With a fixed supply of only 5,000 units, it celebrates the unstoppable force of wrestling greatness. No presales, no insider wallets — only true fair launch. This isn't just a token, it's a tribute to hustle, loyalty, and respect."
+    }
+  }
+]
